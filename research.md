@@ -1,6 +1,8 @@
-layout: page
+---
+layout: default
 title: "RESEARCH"
 permalink: /research
+---
 
 #Research
 
