@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RESEARCH"
+permalink: /outreach.html
+---
+
 # Outreach and SciComm
 
 <div style="text-align: justify"><p style="font-size: 18px">
