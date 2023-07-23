@@ -1,3 +1,9 @@
+---
+layout: default
+title: "People"
+permalink: /members
+---
+
 [<Back](https://rodalg.github.io)
 
 # Lab Members
