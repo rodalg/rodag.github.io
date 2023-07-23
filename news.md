@@ -10,4 +10,4 @@ permalink: /news
 
 
 * <b><em> Dec, 2022 </em> Corin got her bachelors!</b> <br>
-Corín Pachecho, who was a Biotech Engineer student at the [UPEMOR](https://www.upemor.edu.mx), received her Bachelor's degree. Her research project was focused on characterizing <i>Echinopsis mirabilis</i> as a putative model organism for Cactaceae species. Congrats Corin! <img src=images/Coringrad.jpg width="300">
+Corín Pachecho, who was a Biotech Engineer student at the [UPEMOR](https://www.upemor.edu.mx), received her Bachelor's degree. Her research project was focused on characterizing <i>Echinopsis mirabilis</i> as a putative model organism for Cactaceae species. Congrats Corin!
