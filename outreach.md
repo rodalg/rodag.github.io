@@ -21,6 +21,7 @@ In our lab we understand that sharing our results is as important as generating 
 > discussion about how colonialism shaped botany, and how botany shaped empires.
 
 ![Cecritiq](./images/cecritiq.jpg)
+![UAQ](./images/uaq.jpg)
 
 # Science Fair
 
