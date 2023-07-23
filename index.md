@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| [RESEARCH](./research.html)       | [LAB MEMBERS](./members.html)          |  [OUTREACH](./outreach.html) |  [NEWS](./news.html) |
+| [RESEARCH](./research.html)       | [PEOPLE](./members.html)          |  [OUTREACH](./outreach.html) |  [NEWS](./news.html) |
 
 * * *
 
