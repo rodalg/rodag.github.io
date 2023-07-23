@@ -3,6 +3,8 @@ layout: default
 title: "NEWS"
 permalink: /news
 ---
+<body style="background-color:black;">
+  
 # Latest News
 
 * <b><em> Aug 14, 2023 </em> We are moving!</b> <br>
@@ -11,3 +13,4 @@ permalink: /news
 
 * <b><em> Dec, 2022 </em> Corin got her bachelors!</b> <br>
 Corín Pachecho, who was a Biotech Engineer student at the [UPEMOR](https://www.upemor.edu.mx), received her Bachelor's degree. Her research project was focused on characterizing <i>Echinopsis mirabilis</i> as a putative model organism for Cactaceae species. Congrats Corin!
+</body>
