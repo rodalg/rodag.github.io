@@ -1,6 +1,10 @@
 <div style="text-align: justify"><p style="font-size: 18px">
 In our lab we understand that sharing our results is as important as generating them. We, therefore, encourage lab members to engage in science outreach and science communication strategies aimed at different audiences, but mainly to the general public, which through their taxes finance most of our research. Here are some of the latest activities in which we have participated: </p></div>
 
+### Organizing [#SMBPlant2023](https://smbplant.quimica.unam.mx)
+> We are getting ready for #SMBPlants2023, the largest biochemistry and molecular plant biology meeting in México!
+> This year, #SMBPlant2023 will take place in Oaxaca. More info? Get in touch via [Twitter](https://twitter.com/SMBPlant2023), [Mail](mailto:
+
 ### Open Doors @ IBt - UNAM
 
 *Disclaimer: Most of these activities were performed when I was at IBt-UNAM working with Dr. Svetlana Shishkova*
