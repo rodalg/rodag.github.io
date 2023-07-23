@@ -6,4 +6,4 @@ layout: default
 
 * * *
 
-![Group Photo](./images/group.jpg)
+![Group Photo](./images/group.png)
