@@ -5,8 +5,10 @@ In our lab we understand that sharing our results is as important as generating 
 
 ### Organizing [#SMBPlant2023](https://smbplant.quimica.unam.mx)
 > We are getting ready for #SMBPlants2023, the largest biochemistry and molecular plant biology meeting in México!
-> This year, #SMBPlant2023 will take place in Oaxaca. More info? Get in touch via [Twitter](https://twitter.com/SMBPlant2023), [Mail](mailto:congresoplantas.smb@gmail.com), or visit our [Website](https://smbplant.quimica.unam.mx)
-![Group](./images/smbposter.jpg)
+> This year, #SMBPlant2023 will take place in Oaxaca. More info? Get in touch via [Twitter](https://twitter.com/SMBPlant2023), [Mail](mailto:congresoplantas.smb@gmail.com), or visit our [Website](https://smbplant.quimica.unam.mx).
+<br>
+
+![Group](./images/Cartel.jpg)
 
 ### Open Doors @ IBt - UNAM
 
