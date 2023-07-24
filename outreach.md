@@ -7,7 +7,7 @@ permalink: /outreach.html
 # Outreach and SciComm
 
 <div style="text-align: justify"><p style="font-size: 18px">
-In our lab we understand that sharing our results is as important as generating them. We, therefore, encourage lab members to engage in science outreach and science communication strategies aimed at different audiences, but mainly to the general public, which through their taxes finance most of our research. Here are some of the latest activities in which we have participated: </p></div>
+At our lab, we understand that sharing our results is as important as generating them. We actively promote science outreach and communication efforts among our members, targeting diverse audiences, with a primary focus on the general public, whose taxes significantly fund our research. Below are some of our recent participation activities: </p></div>
 
 ### Organizing [#SMBPlant2023](https://smbplant.quimica.unam.mx)
 > We are getting ready for #SMBPlants2023, the largest biochemistry and molecular plant biology meeting in México!
