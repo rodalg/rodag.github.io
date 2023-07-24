@@ -3,8 +3,11 @@ layout: default
 title: "RESEARCH"
 permalink: /outreach.html
 ---
-[<Back](https://rodalg.github.io)
-# Outreach and SciComm
+| [RESEARCH](./research.html)       | [PEOPLE](./members.html)          |  [OUTREACH](./outreach.html) |  [NEWS](./news.html) |
+
+* * *
+
+# Outreach & SciComm
 
 <div style="text-align: justify"><p style="font-size: 18px">
 At our lab, we understand that sharing our results is as important as generating them. We actively promote science outreach and communication efforts among our members, targeting diverse audiences, with a primary focus on the general public, whose taxes significantly fund our research. Below are some of our recent participation activities: </p></div>
