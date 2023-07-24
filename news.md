@@ -3,7 +3,10 @@ layout: default
 title: "NEWS"
 permalink: /news
 ---
-[<Back](https://rodalg.github.io)
+| [RESEARCH](./research.html)       | [PEOPLE](./members.html)          |  [OUTREACH](./outreach.html) |  [NEWS](./news.html) |
+
+* * *
+
 <h1> Latest News </h1>
 
 <h4><em> * Aug 14, 2023 </em> - We are moving!</h4>
