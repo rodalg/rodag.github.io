@@ -3,7 +3,9 @@ layout: default
 title: "RESEARCH"
 permalink: /research
 ---
-[<Back](https://rodalg.github.io)
+| [RESEARCH](./research.html)       | [PEOPLE](./members.html)          |  [OUTREACH](./outreach.html) |  [NEWS](./news.html) |
+
+* * *
 # Research
 
 <div style="text-align: justify"><p style="font-size: 18px">
