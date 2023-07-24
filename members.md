@@ -4,7 +4,9 @@ title: "People"
 permalink: /members
 ---
 
-[<Back](https://rodalg.github.io)
+| [RESEARCH](./research.html)       | [PEOPLE](./members.html)          |  [OUTREACH](./outreach.html) |  [NEWS](./news.html) |
+
+* * *
 
 # Lab Members
 
