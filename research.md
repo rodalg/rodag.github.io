@@ -16,10 +16,10 @@ Over the past few years, my research has focused on Cactaceae transcriptomics. I
 
 ## Selected Publications
 
-* [**2018**](https://www.nature.com/articles/s41598-018-26897-1) **Rodriguez-Alonso G**, Matvienko M, López-Valle ML, Lázaro-Mixteco PE, Napsucialy-Mendivil S, Dubrovsky JG, Shishkova S. Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in Pachycereus pringlei (Cactaceae). Scientific reports.
+* [**2018 [DOI]**](https://www.nature.com/articles/s41598-018-26897-1) **Rodríguez-Alonso G**, Matvienko M, López-Valle ML, Lázaro-Mixteco PE, Napsucialy-Mendivil S, Dubrovsky JG, Shishkova S. Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in _Pachycereus pringlei_ (Cactaceae). Scientific reports.
 
-* [**2017**](https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full) Reyes-Rivera J, **Rodríguez-Alonso G**, Petrone E, Vasco A, Vergara-Silva F, Shishkova S, Terrazas T. Expression of the knotted homeobox genes in the cactaceae cambial zone suggests their involvement in wood development. Frontiers in Plant Science. 2017
+* [**2017 [DOI]**](https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full) Reyes-Rivera J, **Rodríguez-Alonso G**, Petrone E, Vasco A, Vergara-Silva F, Shishkova S, Terrazas T. Expression of the KNOTTED HOMEOBOX genes in the Cactaceae cambial zone suggests their involvement in wood development. Frontiers in Plant Science.
 
-* [**2019**](https://www.frontiersin.org/articles/10.3389/fpls.2019.00206/full) Torres-Martinez HH, **Rodríguez-Alonso G**, Shishkova S, Dubrovsky JG. Lateral root primordium morphogenesis in angiosperms. Frontiers in plant science.
+* [**2019 [DOI]**](https://www.frontiersin.org/articles/10.3389/fpls.2019.00206/full) Torres-Martinez HH, **Rodríguez-Alonso G**, Shishkova S, Dubrovsky JG. Lateral root primordium morphogenesis in angiosperms. Frontiers in plant science.
 
-* [**2021**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250584) González-Coronel JM, **Rodríguez-Alonso G**, Guevara-García ÁA. A phylogenetic study of the members of the MAPK and MEK families across Viridiplantae. Plos one.
+* [**2021 [DOI]**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250584) González-Coronel JM, **Rodríguez-Alonso G**, Guevara-García ÁA. A phylogenetic study of the members of the MAPK and MEK families across Viridiplantae. Plos one.
