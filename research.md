@@ -10,16 +10,16 @@ permalink: /research
 # Research
 
 <div style="text-align: justify"><p style="font-size: 18px">
-Over the past few years, my research has focused on Cactaceae transcriptomics. I earned my Ph.D. from the National Autonomous University of México, under the guidance of Dr. Svetlana Shishkova, studying the transcriptomics of root development in <i>Pachycereus pringlei</i>, an endemic columnar cactus from the Sonoran Desert. Collaborating with Dr. Teresa Terrazas (IB-UNAM), we investigated the role of KNOX genes in Cactaceae wood formation. Presently, I am collaborating with Dr. Salvador Arias and Dr. Isaura Rosas to explore flower development in epiphytic Cacti. <br> Since August 2023, I have established my research group at the Autonomous University of Morelos, focusing on desert and xeric shrubland vegetation.
+Over the past few years, my research has focused on Cactaceae transcriptomics. I earned my Ph.D. from the National Autonomous University of México, under the guidance of Dr. Svetlana Shishkova, studying the transcriptomics of root development in <i>Pachycereus pringlei</i>, an endemic columnar cactus from the Sonoran Desert. Collaborating with Dr. Teresa Terrazas (IB-UNAM), we investigated the role of KNOX genes in Cactaceae wood formation. Currently, I am collaborating with Dr. Salvador Arias and Dr. Isaura Rosas (JB-UNAM) to explore flower development in epiphytic Cacti. <br> Since August 2023, I am working to consolidate my research group at the Autonomous University of Morelos, focusing on desert and xeric shrubland vegetation.
 <br>
 </p></div>
 
 ## Selected Publications
 
-* [2018](https://www.nature.com/articles/s41598-018-26897-1) **Rodriguez-Alonso G**, Matvienko M, López-Valle ML, Lázaro-Mixteco PE, Napsucialy-Mendivil S, Dubrovsky JG, Shishkova S. Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in Pachycereus pringlei (Cactaceae). Scientific reports.
+* [**2018**](https://www.nature.com/articles/s41598-018-26897-1) **Rodriguez-Alonso G**, Matvienko M, López-Valle ML, Lázaro-Mixteco PE, Napsucialy-Mendivil S, Dubrovsky JG, Shishkova S. Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in Pachycereus pringlei (Cactaceae). Scientific reports.
 
-* [2017](https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full) Reyes-Rivera J, **Rodríguez-Alonso G**, Petrone E, Vasco A, Vergara-Silva F, Shishkova S, Terrazas T. Expression of the knotted homeobox genes in the cactaceae cambial zone suggests their involvement in wood development. Frontiers in Plant Science. 2017
+* [**2017**](https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full) Reyes-Rivera J, **Rodríguez-Alonso G**, Petrone E, Vasco A, Vergara-Silva F, Shishkova S, Terrazas T. Expression of the knotted homeobox genes in the cactaceae cambial zone suggests their involvement in wood development. Frontiers in Plant Science. 2017
 
-* [2019](https://www.frontiersin.org/articles/10.3389/fpls.2019.00206/full) Torres-Martinez HH, **Rodríguez-Alonso G**, Shishkova S, Dubrovsky JG. Lateral root primordium morphogenesis in angiosperms. Frontiers in plant science.
+* [**2019**](https://www.frontiersin.org/articles/10.3389/fpls.2019.00206/full) Torres-Martinez HH, **Rodríguez-Alonso G**, Shishkova S, Dubrovsky JG. Lateral root primordium morphogenesis in angiosperms. Frontiers in plant science.
 
-* [2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250584) González-Coronel JM, **Rodríguez-Alonso G**, Guevara-García ÁA. A phylogenetic study of the members of the MAPK and MEK families across Viridiplantae. Plos one.
+* [**2021**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250584) González-Coronel JM, **Rodríguez-Alonso G**, Guevara-García ÁA. A phylogenetic study of the members of the MAPK and MEK families across Viridiplantae. Plos one.
