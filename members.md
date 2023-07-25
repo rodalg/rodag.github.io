@@ -21,7 +21,7 @@ permalink: /members
   - Undegrad student at CIDC-UNAM. She has been working on exploring the incidence of determinate growth in Cactoideae species.
 
 ## Former
-* Yuleimi Corín Pacheco Blancas
-    * Graduated on Dec 2022.
-* Ramsés Uriel Albarrán Hernández
-    * Graduated on May 2021
+* **Yuleimi Corín Pacheco Blancas**
+    * _Graduated on Dec 2022_. Corin's project was mainly focused on characterizing _Echinopsis mirabilis_ as a model species for Cactaceae, specifically for developmental and molecular studies.
+* **Ramsés Uriel Albarrán Hernández**
+    * _Graduated on May 2021_. Ramsés's project was focused on the phylogenetical analysis of the PLETHORA transcription factors, and their possible involvement in Cactaceae root determinate growth.
