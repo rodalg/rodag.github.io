@@ -28,23 +28,22 @@ At our lab, we understand that sharing our results is as important as generating
 > Here, some of my students made Cactus stamps, a photo gallery, live specimens showcase, and we
 > even used augmented reality to take our visitors to the jungle in search of epiphytic cacti.
 
-![Group](./images/opendoors.jpg)
 ![Gallery](./images/gallery.jpg)
 ![Extended Reality](./images/extreal.jpg)
 ![Live specimens](./images/livespec.jpg)
 
 ### Invited Speaker
 
-> I was invited to the Autonomous University of Querétaro. We had a field trip to the campus Concá
-> We visited part of the Sierra Gorda, saw how the UAQ is working on sustainability, and had an interesting
-> discussion about how colonialism shaped botany, and how botany shaped empires.
+> I was invited to the Autonomous University of Querétaro. We had a field trip to the campus Concá,
+> visited part of the Sierra Gorda, and saw how the UAQ is working on sustainability. I had an interesting
+> discussion with the students about how colonialism shaped botany, and how botany shaped empires.
 
 ![Cecritiq](./images/cecritiq.jpg)
 ![UAQ](./images/uaq.jpg)
 
 # Science Fair
 
-> Our group was invited to present some activities for students, from kindergarten to high schoolers.
-![Cecritiq](./images/museociencias.jpg)
+> Our group was invited to present some activities for students, from kindergarten to highschoolers.
+![FeriaCiencias](./images/museociencias.jpg)
 
 
