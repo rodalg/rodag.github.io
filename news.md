@@ -3,8 +3,7 @@ layout: default
 title: "NEWS"
 permalink: /news
 ---
-| [RESEARCH](./research.html)       | [PEOPLE](./members.html)          |  [OUTREACH](./outreach.html) |  [NEWS](./news.html) |
-
+| [**HOME**](./index.html)| [**RESEARCH**](./research.html)       | [**PEOPLE**](./members.html)          |  [**OUTREACH**](./outreach.html) |  [**NEWS**](./news.html) |
 * * *
 
 <h1> Latest News </h1>
