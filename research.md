@@ -18,7 +18,7 @@ Over the past few years, my research has focused on Cactaceae transcriptomics. I
 
 * [**2018 [DOI]**](https://www.nature.com/articles/s41598-018-26897-1) **Rodríguez-Alonso G**, Matvienko M, López-Valle ML, Lázaro-Mixteco PE, Napsucialy-Mendivil S, Dubrovsky JG, Shishkova S. Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in _Pachycereus pringlei_ (Cactaceae). Scientific reports.
 
-* [**2017 [DOI]**](https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full) Reyes-Rivera J, **Rodríguez-Alonso G**, Petrone E, Vasco A, Vergara-Silva F, Shishkova S, Terrazas T. Expression of the KNOTTED HOMEOBOX genes in the Cactaceae cambial zone suggests their involvement in wood development. Frontiers in Plant Science.
+* <u>[**2017 [DOI]**](https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full)</u> Reyes-Rivera J, **Rodríguez-Alonso G**, Petrone E, Vasco A, Vergara-Silva F, Shishkova S, Terrazas T. Expression of the KNOTTED HOMEOBOX genes in the Cactaceae cambial zone suggests their involvement in wood development. Frontiers in Plant Science.
 
 * [**2019 [DOI]**](https://www.frontiersin.org/articles/10.3389/fpls.2019.00206/full) Torres-Martinez HH, **Rodríguez-Alonso G**, Shishkova S, Dubrovsky JG. Lateral root primordium morphogenesis in angiosperms. Frontiers in plant science.
 
