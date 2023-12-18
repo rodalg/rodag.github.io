@@ -10,7 +10,9 @@ permalink: /research
 # Research
 
 <div style="text-align: justify"><p style="font-size: 18px">
-Over the past few years, my research has focused on Cactaceae transcriptomics. I earned my Ph.D. from the National Autonomous University of México, under the guidance of Dr. Svetlana Shishkova, studying the transcriptomics of root development in <i>Pachycereus pringlei</i>, an endemic columnar cactus from the Sonoran Desert. Collaborating with Dr. Teresa Terrazas (IB-UNAM), we investigated the role of KNOX genes in Cactaceae wood formation. Currently, I am collaborating with Dr. Salvador Arias and Dr. Isaura Rosas (JB-UNAM) to explore flower development in epiphytic Cacti. <br> Since August 2023, I am working to consolidate my research group at the Autonomous University of Morelos, focusing on desert and xeric shrubland vegetation.
+Over the past few years, my research has focused on Cactaceae transcriptomics. I earned my Ph.D. from the National Autonomous University of México, under the guidance of Dr. Svetlana Shishkova, studying the transcriptomics of root development in <i>Pachycereus pringlei</i>, an endemic columnar cactus from the Sonoran Desert. Collaborating with Dr. Teresa Terrazas (IB-UNAM), we investigated the role of KNOX genes in Cactaceae wood formation. 
+  <br>
+  Currently, I am collaborating with Dr. Salvador Arias and Dr. Isaura Rosas (JB-UNAM) to explore flower development in epiphytic Cacti. In addition, I have active collaborations on Phaseolus transcriptional responses to drought, Arabidopsis sugar signaling, and evolution of Amaranthus metabolism in A. hypochondriacus and a wild undomesticated relative. <br> <br> Since August 2023, I am working to consolidate my research group at the Autonomous University of Morelos, focusing on desert and xeric shrubland vegetation.
 <br>
 </p></div>
 
