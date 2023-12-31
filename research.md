@@ -18,6 +18,8 @@ Over the past few years, my research has focused on Cactaceae transcriptomics. I
 
 ## Selected Publications
 
+* [**2023 [DOI]**](https://www.phytoneuron.net/wp-content/uploads/2023/12/54PhytoN-ArthraxonMorelos.pdf) JL Vigosa Mercado, **G Rodríguez-Alonso**. Nuevo registro de Arthraxon hispidus (Poaceae) para el Estado de Morelos, México. Phytoneuron. Digital Publications in Plant Biology. 
+ 
 * [**2018 [DOI]**](https://www.nature.com/articles/s41598-018-26897-1) **Rodríguez-Alonso G**, Matvienko M, López-Valle ML, Lázaro-Mixteco PE, Napsucialy-Mendivil S, Dubrovsky JG, Shishkova S. Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in _Pachycereus pringlei_ (Cactaceae). Scientific reports.
 
 * [**2017 [DOI]**](https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full) Reyes-Rivera J, **Rodríguez-Alonso G**, Petrone E, Vasco A, Vergara-Silva F, Shishkova S, Terrazas T. Expression of the KNOTTED HOMEOBOX genes in the Cactaceae cambial zone suggests their involvement in wood development. Frontiers in Plant Science.
