@@ -18,6 +18,8 @@ Over the past few years, my research has focused on Cactaceae transcriptomics. I
 
 ## Selected Publications
 
+* [**2024 [DOI]**](https://books.google.com.mx/books?hl=en&lr=&id=qNMREQAAQBAJ&oi=fnd&pg=PA33&dq=root+RAM+exhaustion&ots=CUjnMXYiLG&sig=-reByUAxb_62WmMLlrlhXfUMGHg&redir_esc=y#v=onepage&q=root%20RAM%20exhaustion&f=false) Joseph Dubrovsky, **G Rodríguez-Alonso**. The Root Apical Meristem. Chapter 3 in: "Plant roots: The hidden half", 5th Edition. Beeckman & Eshel (editors), CRC Press. 
+
 * [**2024 [DOI]**](https://www.biorxiv.org/content/10.1101/2024.12.03.626639v1) Joel Rodriguez-Herrera; Kenia A. Galvan-Alcaraz, Ramses U. Albarran-Hernandez, Juan P. Villa-Nunez, Svetlana Shishkova **G Rodríguez-Alonso**. A computational Evo-Devo approach for elucidating the roles of PLETHORA transcription factors in regulating root development. bioRxiv 2024.12.03.626639
 
 * [**2023 [DOI]**](https://www.phytoneuron.net/wp-content/uploads/2023/12/54PhytoN-ArthraxonMorelos.pdf) JL Vigosa Mercado, **G Rodríguez-Alonso**. Nuevo registro de Arthraxon hispidus (Poaceae) para el Estado de Morelos, México. Phytoneuron. Digital Publications in Plant Biology. 
